@@ -56,11 +56,10 @@ while(1);
 
  
 **OUTPUT:**
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="1919" height="1174" alt="Screenshot 2025-11-11 083529" src="https://github.com/user-attachments/assets/e018d502-b42b-4807-9663-5d34816df6e6" />
+
+<img width="1919" height="1150" alt="Screenshot 2025-11-11 083303" src="https://github.com/user-attachments/assets/eae39b09-e307-4809-a3b6-3c0fa88dd793" />
+
 
 **Result:**
 
